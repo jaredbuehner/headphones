@@ -1,10 +1,3 @@
-/*
-* File: HeadPhone.java
-* Author: Jared Buehner
-* Date: February 22, 2020
-* Purpose: This program creates constructors for HeadPhone objects to show the specifications
-* of headphones. It is capabale of changing the headphone volume as well.
-*/
 // Imports.
 import java.awt.Color;
 import java.util.Scanner;
