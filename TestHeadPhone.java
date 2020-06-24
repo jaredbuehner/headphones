@@ -1,10 +1,3 @@
-/*
-* File: HeadPhone.java
-* Author: Jared Buehner
-* Date: February 22, 2020
-* Purpose: This program calls methods from HeadPhone.java and creates three headphones and displays
-* their specifications to the standard output and allows for the ability to change the headphone volume.
-*/
 // Imports.
 import java.awt.Color;
 
